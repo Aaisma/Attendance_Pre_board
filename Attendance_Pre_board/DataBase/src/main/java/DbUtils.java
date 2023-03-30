@@ -8,7 +8,7 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
-public class DBHandlers{
+public class DBUtils{
 
     public static final String TABLE_USER = "user";
     public static final String TABLE_CLASS = "class";
